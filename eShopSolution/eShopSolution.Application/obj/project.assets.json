@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Web\\eShopSolution\\eShopSolution.WebApp\\eShopSolution.WebApp.csproj",
-      "projectName": "eShopSolution.WebApp",
-      "projectPath": "D:\\Web\\eShopSolution\\eShopSolution.WebApp\\eShopSolution.WebApp.csproj",
+      "projectUniqueName": "D:\\Web\\eShopSolution\\eShopSolution.Application\\eShopSolution.Application.csproj",
+      "projectName": "eShopSolution.Application",
+      "projectPath": "D:\\Web\\eShopSolution\\eShopSolution.Application\\eShopSolution.Application.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Web\\eShopSolution\\eShopSolution.WebApp\\obj\\",
+      "outputPath": "D:\\Web\\eShopSolution\\eShopSolution.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -60,9 +60,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
